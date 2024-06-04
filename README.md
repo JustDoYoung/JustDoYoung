@@ -5,8 +5,9 @@
 수학을 좋아하고 그래픽 분야에 관심이 있습니다.   
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white) 와 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=plastic&logo=unrealengine&logoColor=white) 을 다룰 수 있습니다.
    
-#### 📞 Contact : guckka94@gmail.com   
-#### ✒️ Blog : https://gukka94.tistory.com
+###### 📞 Contact : guckka94@gmail.com   
+###### ✒️ Blog : https://gukka94.tistory.com
+
    
 ### 🌱 Things I code with ...
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
@@ -21,4 +22,4 @@
    
 ### ✅ Latest Blog Post
 
-#### [2024/06/04 - [UE5] 시작하며...](http://gukka94.tistory.com/32)#### [2024/05/28 - [알고리즘/C++] split() 함수](http://gukka94.tistory.com/31)#### [2024/05/27 - [알고리즘/C++] 조합(Combination)](http://gukka94.tistory.com/30)#### [2024/05/27 - [알고리즘/C++] 순열(Permutation)](http://gukka94.tistory.com/29)
+###### [2024/06/04 - [UE5] 시작하며...](http://gukka94.tistory.com/32)###### [2024/05/28 - [알고리즘/C++] split() 함수](http://gukka94.tistory.com/31)###### [2024/05/27 - [알고리즘/C++] 조합(Combination)](http://gukka94.tistory.com/30)###### [2024/05/27 - [알고리즘/C++] 순열(Permutation)](http://gukka94.tistory.com/29)
