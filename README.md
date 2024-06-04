@@ -20,7 +20,8 @@
    
    
 ### ✅ Latest Blog Post
-<p><$\color{#5ad7b7}set\ [2024/05/28 - [알고리즘/C++] split() 함수](http://gukka94.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98C-split-%ED%95%A8%EC%88%98) <br/>\ color$</p>
+
+[2024/05/28 - [알고리즘/C++] split() 함수](http://gukka94.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98C-split-%ED%95%A8%EC%88%98) <br/>
 [2024/05/27 - [알고리즘/C++] 조합(Combination)](http://gukka94.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98C-%EC%A1%B0%ED%95%A9Combination) <br/>
 [2024/05/27 - [알고리즘/C++] 순열(Permutation)](http://gukka94.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98C-%EC%88%9C%EC%97%B4Permutation) <br/>
 [2024/03/22 - [파이썬] 난수로 원주율 구하기(pyplot, numpy)](http://gukka94.tistory.com/entry/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%82%9C%EC%88%98%EB%A1%9C-%EC%9B%90%EC%A3%BC%EC%9C%A8-%EA%B5%AC%ED%95%98%EA%B8%B0pyplot-numpy) <br/>
