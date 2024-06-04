@@ -19,7 +19,7 @@
 ![solvedac badge](https://solvedac-readme-badge.vercel.app/api/v1/badge?user=tornado0310&theme=github-dark&compact=1)
    
    
-## ✅ Latest Blog Post
+### ✅ Latest Blog Post
 
 [2024/05/28 - [알고리즘/C++] split() 함수](http://gukka94.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98C-split-%ED%95%A8%EC%88%98) <br/>
 [2024/05/27 - [알고리즘/C++] 조합(Combination)](http://gukka94.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98C-%EC%A1%B0%ED%95%A9Combination) <br/>
