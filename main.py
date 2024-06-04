@@ -11,8 +11,8 @@ markdown_text = """
 수학을 좋아하고 그래픽 분야에 관심이 있습니다.   
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white) 와 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=plastic&logo=unrealengine&logoColor=white) 을 다룰 수 있습니다.
    
-###### 📞 Contact : guckka94@gmail.com   
-###### ✒️ Blog : https://gukka94.tistory.com
+📞 Contact : guckka94@gmail.com   
+✒️ Blog : https://gukka94.tistory.com
 
    
 ### 🌱 Things I code with ...
@@ -36,7 +36,7 @@ for idx, feed in enumerate(RSS_FEED['entries']):
     else:
        
         feed_date = feed['published_parsed']
-        markdown_text += f"###### [{time.strftime('%Y/%m/%d', feed_date)} - {feed['title']}]({feed['link']}) \n"
+        markdown_text += f"[{time.strftime('%Y/%m/%d', feed_date)} - {feed['title']}]({feed['link']}) \n"
         
 f = open("README.md", mode="w", encoding="utf-8")
 f.write(markdown_text)
