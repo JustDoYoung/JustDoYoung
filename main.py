@@ -22,8 +22,8 @@ markdown_text = """
 
 
 ### Online Judge
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tornado0310)](https://solved.ac/tornado0310/)   
-
+[![solvedac badge](https://solvedac-readme-badge.vercel.app/api/v1/badge?user=tornado0310&compact=1)]
+   
    
 ## ✅ Latest Blog Post
 
