@@ -5,7 +5,7 @@ RSS_FEED = feedparser.parse(URL)
 MAX_POST = 3
 
 markdown_text = """
-# <img src="https://github.com/JustDoYoung/JustDoYoung/assets/63029463/312b6a4a-8df0-4ae7-9a19-42dc5d5e3a7b" width="50" height="50"/> Nice to meet you! 
+# <img src="https://github.com/JustDoYoung/JustDoYoung/assets/63029463/312b6a4a-8df0-4ae7-9a19-42dc5d5e3a7b" width="30" height="30"/> Nice to meet you! 
 
 저는 클라이언트 개발자 **DoYoung** 입니다.  
 수학을 좋아하고 그래픽 분야에 관심이 있습니다.   
