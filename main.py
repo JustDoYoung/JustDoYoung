@@ -2,7 +2,7 @@ import feedparser, time
 
 URL = "http://gukka94.tistory.com/rss"
 RSS_FEED = feedparser.parse(URL)
-MAX_POST = 5
+MAX_POST = 3
 
 markdown_text = """
 # <img src="https://github.com/JustDoYoung/JustDoYoung/assets/63029463/312b6a4a-8df0-4ae7-9a19-42dc5d5e3a7b" width="50" height="50"/> Nice to meet you! ✌️
