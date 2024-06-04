@@ -25,7 +25,7 @@ markdown_text = """
 ![solvedac badge](https://solvedac-readme-badge.vercel.app/api/v1/badge?user=tornado0310&theme=github-dark&compact=1)
    
    
-## ✅ Latest Blog Post
+### ✅ Latest Blog Post
 
 """  # list of blog posts will be appended here
 
@@ -34,7 +34,7 @@ for idx, feed in enumerate(RSS_FEED['entries']):
         break
     else:
         feed_date = feed['published_parsed']
-        markdown_text += f"[{time.strftime('%Y/%m/%d', feed_date)} - {feed['title']}]({feed['link']}) <br/>\n"
+        markdown_text += f"<span style="color:green"> [{time.strftime('%Y/%m/%d', feed_date)} - {feed['title']}]({feed['link']})  </span><br/>\n"
         
 f = open("README.md", mode="w", encoding="utf-8")
 f.write(markdown_text)
