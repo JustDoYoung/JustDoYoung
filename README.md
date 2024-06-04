@@ -20,7 +20,7 @@
    
    
 ### ✅ Latest Blog Post
-
+<p><$\color{#5ad7b7}set\ text\ color$</p>
 [2024/05/28 - [알고리즘/C++] split() 함수](http://gukka94.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98C-split-%ED%95%A8%EC%88%98) <br/>
 [2024/05/27 - [알고리즘/C++] 조합(Combination)](http://gukka94.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98C-%EC%A1%B0%ED%95%A9Combination) <br/>
 [2024/05/27 - [알고리즘/C++] 순열(Permutation)](http://gukka94.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98C-%EC%88%9C%EC%97%B4Permutation) <br/>
