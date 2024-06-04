@@ -16,7 +16,7 @@
 
 
 ### Online Judge
-[![solvedac badge](https://solvedac-readme-badge.vercel.app/api/v1/badge?user=tornado0310&compact=1)]
+![solvedac badge](https://solvedac-readme-badge.vercel.app/api/v1/badge?user=tornado0310&theme=github-dark&compact=1)
    
    
 ## ✅ Latest Blog Post
