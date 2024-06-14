@@ -19,6 +19,6 @@
 ### ✅ Latest Blog Post
 
 [2024/06/04 - [Github] README 에서 링크 밑줄 안 보이게 하기](http://gukka94.tistory.com/33) <br>
-[2024/06/04 - [UE5] 시작하며...](http://gukka94.tistory.com/32) <br>
 [2024/05/28 - [알고리즘/C++] split() 함수](http://gukka94.tistory.com/31) <br>
 [2024/05/27 - [알고리즘/C++] 조합(Combination)](http://gukka94.tistory.com/30) <br>
+[2024/05/27 - [알고리즘/C++] 순열(Permutation)](http://gukka94.tistory.com/29) <br>
