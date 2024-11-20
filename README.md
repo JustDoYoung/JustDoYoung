@@ -18,7 +18,7 @@
    
 ### ✅ Latest Blog Post
 
+[2024/11/20 - [유니티-Paper.io2] 이동흔적 가시화와 데이터 관리](http://gukka94.tistory.com/39) <br>
+[2024/11/20 - [백준-cpp] 2910. 빈도 정렬](http://gukka94.tistory.com/38) <br>
+[2024/11/20 - [백준-cpp] 1992. 쿼드트리](http://gukka94.tistory.com/37) <br>
 [2024/11/15 - [Unity 프로젝트기획] Land Winning(땅따먹기)](http://gukka94.tistory.com/36) <br>
-[2024/11/14 - [게임 프레임워크] UI 내부요소 프레임워크](http://gukka94.tistory.com/35) <br>
-[2024/06/25 - [UE5/블루프린트] 애님 인스턴스의 Get Curve Value 가 이상해요?](http://gukka94.tistory.com/34) <br>
-[2024/06/04 - [Github] README 에서 링크 밑줄 안 보이게 하기](http://gukka94.tistory.com/33) <br>
