@@ -18,7 +18,7 @@
    
 ### ✅ Latest Blog Post
 
+[2024/12/01 - [백준-cpp] 14502. 연구소](http://gukka94.tistory.com/41) <br>
 [2024/11/22 - [유니티-paper.io2] 프레임 단위 이동과 흔적 남기기](http://gukka94.tistory.com/40) <br>
 [2024/11/20 - [유니티-Paper.io2] 이동흔적 가시화와 데이터 관리](http://gukka94.tistory.com/39) <br>
 [2024/11/20 - [백준-cpp] 2910. 빈도 정렬](http://gukka94.tistory.com/38) <br>
-[2024/11/20 - [백준-cpp] 1992. 쿼드트리](http://gukka94.tistory.com/37) <br>
