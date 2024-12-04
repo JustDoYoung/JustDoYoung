@@ -18,7 +18,7 @@
    
 ### ✅ Latest Blog Post
 
+[2024/12/04 - [백준-cpp] 1068. 트리](http://gukka94.tistory.com/44) <br>
 [2024/12/02 - [백준-cpp] 2636. 치즈](http://gukka94.tistory.com/42) <br>
 [2024/12/01 - [백준-cpp] 14502. 연구소](http://gukka94.tistory.com/41) <br>
 [2024/11/22 - [유니티-paper.io2] 프레임 단위 이동과 흔적 남기기](http://gukka94.tistory.com/40) <br>
-[2024/11/20 - [유니티-Paper.io2] 이동흔적 가시화와 데이터 관리](http://gukka94.tistory.com/39) <br>
