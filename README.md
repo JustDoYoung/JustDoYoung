@@ -18,7 +18,7 @@
    
 ### ✅ Latest Blog Post
 
+[2024/12/06 - [백준-cpp] 17298. 오큰수](http://gukka94.tistory.com/46) <br>
 [2024/12/04 - [백준-cpp] 1325. 효율적인 해킹](http://gukka94.tistory.com/45) <br>
 [2024/12/04 - [백준-cpp] 1068. 트리](http://gukka94.tistory.com/44) <br>
 [2024/12/02 - [백준-cpp] 2636. 치즈](http://gukka94.tistory.com/42) <br>
-[2024/12/01 - [백준-cpp] 14502. 연구소](http://gukka94.tistory.com/41) <br>
