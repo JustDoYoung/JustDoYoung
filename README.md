@@ -18,7 +18,7 @@
    
 ### ✅ Latest Blog Post
 
+[2024/12/16 - [유니티-Paper.io2] 닫힌 영역에서 메시 생성](http://gukka94.tistory.com/48) <br>
 [2024/12/15 - [유니티-Paper.io2] 이동흔적 가시화와 데이터 관리](http://gukka94.tistory.com/39) <br>
 [2024/12/15 - [유니티-paper.io2] 프레임 단위 이동과 흔적 남기기(폐기)](http://gukka94.tistory.com/40) <br>
 [2024/12/06 - [백준-cpp] 17298. 오큰수](http://gukka94.tistory.com/46) <br>
-[2024/12/04 - [백준-cpp] 1325. 효율적인 해킹](http://gukka94.tistory.com/45) <br>
